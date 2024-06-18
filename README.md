@@ -1,4 +1,6 @@
-## Hi there 👋
+- 👋 Hi, I’m Sunny
+- 🌱 I am currently trying to perfect my skills in building full-stack React Apps!
+- 📇 How to reach me: https://www.linkedin.com/in/soeui-sunny-jeong/
 
 <!--
 **Sunnyj420/Sunnyj420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
